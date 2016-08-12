@@ -16,6 +16,29 @@ p{
   top:65px;
   background-position: -157px 0;
 }
+.rook.white {
+  top: 22px;
+  background-position: -128 0;
+}
+.knight.white {
+  top: 22px;
+  background-position: -99 0;
+}
+.bishop.white {
+  top: 22px;
+  background-position: -65 0; 
+}
+
+.king.white {
+  top: 22px;
+  background-position: -32 0;
+}
+
+.queen.white {
+  top: 22px;
+  background-position: -2 0;
+}
+
 #p1{
   left:37px;
 }
@@ -39,4 +62,109 @@ p{
 }
 #p8{
   left:352px;
+}
+#r1 {
+  left: 39px;
+}
+#r2 {
+  left: 352px;
+}
+#k1 {
+  left:84px;
+}
+#k2 {
+  left:309px;
+}
+#b1 {
+  left:129px;
+}
+#b2 {
+  left:262px;
+}
+
+#king1 {
+  left:217px;
+}
+#queen1 {
+  left:174px;
+}
+
+#p1b{
+  left:37px;
+}
+#p2b{
+  left:82px;
+}
+#p3b{
+  left:127px;
+}
+#p4b{
+  left:172px;
+}
+#p5b{
+  left:217px;
+}
+#p6b{
+  left:262px;
+}
+#p7b{
+  left:307px;
+}
+#p8b{
+  left:352px;
+}
+#r1b {
+  left: 39px;
+}
+#r2b {
+  left: 352px;
+}
+#k1b {
+  left:84px;
+}
+#k2b {
+  left:309px;
+}
+#b1b {
+  left:129px;
+}
+#b2b {
+  left:262px;
+}
+
+#king1b {
+  left:174px;
+
+}
+#queen1b {
+  left:217px;
+
+}
+
+
+.pawn.black{
+  top:289px;
+  background-position: -157px -100px;
+}
+.rook.black {
+  top: 334px;
+  background-position: -128 -100px;
+}
+.knight.black {
+  top: 334px;
+  background-position: -99 -100px;
+}
+.bishop.black {
+  top: 334px;
+  background-position: -65 -100px;
+}
+
+.king.black {
+  top: 334px;
+  background-position: -32 -100px;
+}
+
+.queen.black {
+  top: 334px;
+  background-position: -2 -100px;
 }
